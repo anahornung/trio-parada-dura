@@ -1,10 +1,29 @@
 body {
-
-    color:white;
-    background:black;
-    margin:0px;
-     font-family: "Dancing Script", cursive;
-
-
+    color: white;
+    background: black;
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    padding: 20px;
 }
-  
+
+header {
+    font-family: 'Birthstone', cursive;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Monsieur La Doulaise', cursive;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+}
