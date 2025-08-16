@@ -37,16 +37,21 @@ h5 {
     margin-top: 30px;
 }
 
-img {
-  height: 200px;
+section div {
+    display: flex;
+    flex-wrap: wrap;      
+    justify-content: center;
+    gap: 15px;            
 }
 
-p {
-    font-size: 18px;
-    line-height: 1.5;
+/* imagens dos vídeos */
+section div img {
+    width: 250px;          
+    border-radius: 10px;  
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    transition: transform 0.3s;
 }
 
-iframe {
-    display: block;
-    margin: 20px auto;
+section div img:hover {
+    transform: scale(1.05);
 }
