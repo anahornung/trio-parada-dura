@@ -18,6 +18,14 @@ h1, h2, h3, h4 {
     margin-top: 20px;
 }
 
+h1 {
+    padding: 10px 15px;
+    background-color: #5e1818; 
+    color: white; 
+    display: inline-block; 
+    border-radius: 8px; 
+}
+
 p {
     font-size: 18px;
     line-height: 1.5;
