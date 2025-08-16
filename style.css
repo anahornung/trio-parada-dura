@@ -2,7 +2,7 @@ body {
     color: white;
     background:palevioletred;
     margin: 0;
-     font-family: "Monsieur La Doulaise", cursive;
+    font-family: 'Chewy', cursive;
     padding: 20px;
 }
 
@@ -14,7 +14,7 @@ header {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Monsieur La Doulaise', cursive;
+    font-family: 'Chewy', cursive;
     margin-top: 20px;
 }
 
